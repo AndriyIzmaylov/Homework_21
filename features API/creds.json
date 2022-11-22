@@ -1,0 +1,9 @@
+{
+  "new_user_name" : "igorek",
+  "new_user_email" : "aaaaa@aa.com",
+  "var_for_update" : "ragnarjok",
+  "admin_login": "admin",
+  "admin_password": "admin123",
+  "endpoint": "https://www.aqa.science/api-auth/login/?next=/",
+  "url" : "https://www.aqa.science/users/"
+}

@@ -1,0 +1,8 @@
+{
+  "new_user_name" : "rando",
+  "new_user_email" : "aa@aa.com",
+  "updated_name" : "ololo",
+  "admin_login": "admin",
+  "admin_password": "admin123",
+  "endpoint": "https://www.aqa.science/api-auth/login/?next=/"
+}
