@@ -72,7 +72,7 @@ def step_impl(context):
     new_user_name_for_update.send_keys(context.login_variables["updated_name"])
     put_button = context.driver.find_element(By.XPATH, '//*[@id="put-object-form"]/form/fieldset/div[4]/button')
     put_button.click()
-    context.driver.get(context.user_id_after_create)
+    #context.driver.get(context.user_id_after_create)
     context.user_upd = context.driver.find_element(By.XPATH, '//*[@id="content"]/div[2]/div[4]/pre/span[14]').text
 
 
